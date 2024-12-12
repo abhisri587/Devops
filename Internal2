@@ -1,4 +1,4 @@
-class diff{
+class Internal2{
   public static void main(Strings[] args){
   int a=10;
   int b= 5;
